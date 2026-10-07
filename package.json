@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mediapipe/tasks-vision": "^0.10.35",
-    "next": "^16.2.10",
+    "next": "^16.3.6",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "three": "^0.185.1"
@@ -20,5 +20,8 @@
     "@types/react-dom": "^19",
     "@types/three": "^0.185.0",
     "typescript": "^5"
+  },
+  "overrides": {
+    "baseline-browser-mapping": "^2.11.0"
   }
 }
